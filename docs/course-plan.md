@@ -21,22 +21,22 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Conclusiones clave**: Java se usa para aplicaciones empresariales y juegos; los programas son instrucciones para computadoras.
+- **Empieza a programar**: [Abrir OnlineGDB - Introducción a la programación y Java](https://onlinegdb.com/MCJOaf-TI)
 
 ### Lección 2: Sintaxis básica: Variables, tipos de datos (int, String, etc.). (7min)
 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Conclusiones clave**: Usa int, String; declara como double age = 14.22;
+- **Práctica**: [Abrir OnlineGDB - Sintaxis básica](https://onlinegdb.com/ip88BTQe8)
 
 ### Lección 3: Operadores y expresiones. ()
 
-- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
+- **Descripción**: Aprende cómo realizar cálculos, combinar valores y evaluar condiciones usando operadores aritméticos, lógicos y de comparación.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Conclusiones clave**: +, -, *, /, %, ==, !=, >, <, &&, ||, operador ternario.
+- **Práctica**: [Abrir OnlineGDB - Operadores y expresiones](https://onlinegdb.com/IkoPytjvl) 
 
 ### Lección 4: Estructuras de control: Sentencias if-else, bucles (for, while). ()
 

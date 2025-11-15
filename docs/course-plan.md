@@ -40,24 +40,24 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 ### Lección 4: Estructuras de control: Sentencias if-else, bucles (for, while). (14 min)
 
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- **Descripción**: Crea código que muestra como se usan las estructuras de control tales como (if-else, for, while) que usan condiciones para realizar alguna acción.
 - **Enlace**: [Ver la lección](https://youtu.be/nbSp2ldIhg4?si=7oxOEKvWFH6eqltl)
-- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 
-- 
+- **Conclusiones clave**: Usa int, String; declara estructuras de control.
+- **Práctica**: [Haz clic para practicar](https://www.jdoodle.com/ga/dPaLH6mgUvxokFfJHeiodQ%3D%3D) 
+  
 ### Lección 5: Métodos (funciones) y parámetros. (14 min)
 
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Descripción**: Construye clases con metodos para simples, y con parametros.
 - **Enlace**: [Ver la lección](https://youtu.be/BhU9HKRb3_c?si=sZzWok3-B6D30tAk)
-- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 
+- **Conclusiones clave**: metodos con parametros; Metodos que devuelven data.
+- **Proyecto final**: [Haz clic para practicar](https://www.jdoodle.com/ga/OmvQWoy5cmIMJgNlX8Ipiw%3D%3D) 
 
 ### Lección 6: Entrada/salida básica (usando Scanner o consola). (13 min)
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Descripción**: Practica de entrada y salida de datos por teclado usando Scanner.
 - **Enlace**: [Ver la lección](https://youtu.be/XlcBlDz00hE?si=FxfqpXhn8C8RFgRg)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Consejos clave**: Entrada por teclado; datos clave.
+- **Compartir tu trabajo**: [Haz clic para practicar](https://www.jdoodle.com/ga/nZGZRGIF7TpGHuXnyWS3Dw%3D%3D)
 
 ## Lección 7: Introducción a la POO: Clases, objetos, constructores y métodos simples (7 min)
 

@@ -83,9 +83,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ### Lección 10: Desarrollo de un programa básico ()
 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://drive.google.com/drive/folders/16cLoHuRM1Jjg1gnVHfmDvneoaLIZ6rtR)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: [Enviar creación](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 11: Mejores prácticas y errores comunes para principiantes. ()
 

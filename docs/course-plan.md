@@ -123,8 +123,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
   | Número de lección | Actividad | Empezar a programar |
   |----------|----------|-------------|
-  | 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/MCJOaf-TI) |
-  | 2 | Variables | [OnlineGDB](https://onlinegdb.com/ip88BTQe8) |
+  | 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/iembed/v0/MCJOaf-TI) |
+  | 2 | Variables | [JDoodle](https://www.jdoodle.com/iembed/v0/ip88BTQe8) |
+  | 7 | Clase Perro - POO básica | [JDoodle](https://www.jdoodle.com/iembed/v0/7VMI7xVg) |
+  | 8 | Clase Persona - Encapsulación | [JDoodle](https://www.jdoodle.com/iembed/v0/9cY8F1G3) |
+  | 9 | Arrays y Strings con objetos | [JDoodle](https://www.jdoodle.com/iembed/v0/pb7MZ9hP) |
+
 
 - Compartir: #JavaBeginners
   **¡Gracias por completar el curso!**

@@ -40,45 +40,67 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 ### Lección 4: Estructuras de control: Sentencias if-else, bucles (for, while). (14 min)
 
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- **Descripción**: Crea código que muestra como se usan las estructuras de control tales como (if-else, for, while) que usan condiciones para realizar alguna acción.
 - **Enlace**: [Ver la lección](https://youtu.be/nbSp2ldIhg4?si=7oxOEKvWFH6eqltl)
-- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 
-- 
+- **Conclusiones clave**: Usa int, String; declara estructuras de control.
+- **Práctica**: [Haz clic para practicar](https://www.jdoodle.com/ga/dPaLH6mgUvxokFfJHeiodQ%3D%3D) 
+  
 ### Lección 5: Métodos (funciones) y parámetros. (14 min)
 
-- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Descripción**: Construye clases con metodos para simples, y con parametros.
 - **Enlace**: [Ver la lección](https://youtu.be/BhU9HKRb3_c?si=sZzWok3-B6D30tAk)
-- **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 
+- **Conclusiones clave**: metodos con parametros; Metodos que devuelven data.
+- **Proyecto final**: [Haz clic para practicar](https://www.jdoodle.com/ga/OmvQWoy5cmIMJgNlX8Ipiw%3D%3D) 
 
 ### Lección 6: Entrada/salida básica (usando Scanner o consola). (13 min)
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Descripción**: Practica de entrada y salida de datos por teclado usando Scanner.
 - **Enlace**: [Ver la lección](https://youtu.be/XlcBlDz00hE?si=FxfqpXhn8C8RFgRg)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Consejos clave**: Entrada por teclado; datos clave.
+- **Compartir tu trabajo**: [Haz clic para practicar](https://www.jdoodle.com/ga/nZGZRGIF7TpGHuXnyWS3Dw%3D%3D)
 
-### Lección 7: Introducción a la POO: Clases, objetos, constructores y métodos simples. (7 min)
+## Lección 7: Introducción a la POO: Clases, objetos, constructores y métodos simples (7 min)
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/oS21vlye284?si=4_d4lj32BJG0Ab05)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Descripción**:  
+  Introducción a la Programación Orientada a Objetos (POO) en Java. Aprenderás a definir clases, atributos, constructores, instanciar objetos y llamar métodos para que los objetos realicen acciones.
 
-### Lección 8: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación simple. (10 min)
+- **Conclusiones clave**:  
+  - Cada objeto tiene atributos independientes de otros objetos.  
+  - Los métodos permiten que los objetos realicen acciones.  
+  - Revisar la inicialización de objetos y la invocación correcta de métodos.  
+  - Consultar la [documentación oficial de Java](https://docs.oracle.com/en/java/) ayuda a comprender constructores y métodos.
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/WeWMcOv9Lzs?si=36l54DbbzPJJIOiY)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Enlace**: [Ver la lección](https://youtu.be/oS21vlye284?si=y76a62usWuVUeWar)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3u)
 
-### Lección 9: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con objetos. (7 min)
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/Uwsw02IaTxs?si=iima36NDDBZvNE1x)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+## Lección 8: Principios básicos de POO: Encapsulación (getters/setters) e instanciación simple (10 min)
+
+- **Descripción**:  
+  Aprende la encapsulación usando getters y setters. Permite proteger los datos internos del objeto, validar valores antes de asignarlos y acceder a los atributos de forma controlada.
+
+- **Conclusiones clave**:  
+  - La encapsulación mejora la seguridad y robustez del código.  
+  - Validar datos con setters evita errores de lógica.  
+  - Instanciar objetos permite manipular datos de manera segura.  
+  - Revisar que los getters y setters se usen correctamente.
+
+- **Enlace**: [Ver la lección](https://youtu.be/WeWMcOv9Lzs?si=z9fq0IZt0IrN8X0Q)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3y)
+
+## Lección 9: Estructuras de datos simples: Arrays y cadenas integradas con objetos (7 min)
+
+- **Descripción**:  
+  Combina objetos con estructuras de datos simples como arrays y manipulación de cadenas. Aprende a crear colecciones de objetos, recorrerlas, manipular cadenas para búsquedas y evaluar condiciones.
+
+- **Conclusiones clave**:  
+  - Integrar arrays con objetos facilita manejar colecciones de datos.  
+  - Los métodos permiten operar sobre cada objeto individualmente.  
+  - Manipular cadenas con funciones de comparación mejora las búsquedas.  
+  - Revisar índices de arrays y manejo de mayúsculas/minúsculas evita errores comunes.
+
+- **Enlace**: [Ver la lección](https://youtu.be/Uwsw02IaTxs?si=B_p1QHanbQFHZmpn)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3z)
 
 ### Lección 10: Desarrollo de un programa básico (10 min)
 
@@ -101,8 +123,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
   | Número de lección | Actividad | Empezar a programar |
   |----------|----------|-------------|
-  | 1 | Hola mundo | [OnlineGDB](https://onlinegdb.com/MCJOaf-TI) |
-  | 2 | Variables | [OnlineGDB](https://onlinegdb.com/ip88BTQe8) |
+  | 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/iembed/v0/MCJOaf-TI) |
+  | 2 | Variables | [JDoodle](https://www.jdoodle.com/iembed/v0/ip88BTQe8) |
+  | 7 | Clase Perro - POO básica | [JDoodle](https://www.jdoodle.com/ia/1N3u) |
+  | 8 | Clase Persona - Encapsulación | [JDoodle](https://www.jdoodle.com/ia/1N3y) |
+  | 9 | Arrays y Strings con objetos | [JDoodle](https://www.jdoodle.com/ia/1N3z) |
 
 - Compartir: #JavaBeginners
   **¡Gracias por completar el curso!**

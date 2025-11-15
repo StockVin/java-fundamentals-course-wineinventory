@@ -125,10 +125,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   |----------|----------|-------------|
   | 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/iembed/v0/MCJOaf-TI) |
   | 2 | Variables | [JDoodle](https://www.jdoodle.com/iembed/v0/ip88BTQe8) |
-  | 7 | Clase Perro - POO básica | [JDoodle](https://www.jdoodle.com/iembed/v0/7VMI7xVg) |
-  | 8 | Clase Persona - Encapsulación | [JDoodle](https://www.jdoodle.com/iembed/v0/9cY8F1G3) |
-  | 9 | Arrays y Strings con objetos | [JDoodle](https://www.jdoodle.com/iembed/v0/pb7MZ9hP) |
-
+  | 7 | Clase Perro - POO básica | [JDoodle](https://www.jdoodle.com/ia/1N3u) |
+  | 8 | Clase Persona - Encapsulación | [JDoodle](https://www.jdoodle.com/ia/1N3y) |
+  | 9 | Arrays y Strings con objetos | [JDoodle](https://www.jdoodle.com/ia/1N3z) |
 
 - Compartir: #JavaBeginners
   **¡Gracias por completar el curso!**

@@ -85,7 +85,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/cs46uqSAp68?si=5uEnqVF02mqh0kER)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: [Enviar creación](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 11: Mejores prácticas y errores comunes para principiantes. (10 min)
 

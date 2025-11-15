@@ -73,7 +73,6 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://youtu.be/oS21vlye284?si=y76a62usWuVUeWar)  
 - **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3u)
 
----
 
 ## Lección 8: Principios básicos de POO: Encapsulación (getters/setters) e instanciación simple (10 min)
 
@@ -88,8 +87,6 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 - **Enlace**: [Ver la lección](https://youtu.be/WeWMcOv9Lzs?si=z9fq0IZt0IrN8X0Q)  
 - **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3y)
-
----
 
 ## Lección 9: Estructuras de datos simples: Arrays y cadenas integradas con objetos (7 min)
 

@@ -59,26 +59,51 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
-### Lección 7: Introducción a la POO: Clases, objetos, constructores y métodos simples. (7 min)
+## Lección 7: Introducción a la POO: Clases, objetos, constructores y métodos simples (7 min)
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/oS21vlye284?si=4_d4lj32BJG0Ab05)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Descripción**:  
+  Introducción a la Programación Orientada a Objetos (POO) en Java. Aprenderás a definir clases, atributos, constructores, instanciar objetos y llamar métodos para que los objetos realicen acciones.
 
-### Lección 8: Principios básicos de POO: Encapsulación (usando getters/setters) e instanciación simple. (10 min)
+- **Conclusiones clave**:  
+  - Cada objeto tiene atributos independientes de otros objetos.  
+  - Los métodos permiten que los objetos realicen acciones.  
+  - Revisar la inicialización de objetos y la invocación correcta de métodos.  
+  - Consultar la [documentación oficial de Java](https://docs.oracle.com/en/java/) ayuda a comprender constructores y métodos.
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/WeWMcOv9Lzs?si=36l54DbbzPJJIOiY)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Enlace**: [Ver la lección](https://youtu.be/oS21vlye284?si=y76a62usWuVUeWar)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3u)
 
-### Lección 9: Estructuras de datos simples: Manipulación de arrays o cadenas, integrada con objetos. (7 min)
+---
 
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/Uwsw02IaTxs?si=iima36NDDBZvNE1x)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+## Lección 8: Principios básicos de POO: Encapsulación (getters/setters) e instanciación simple (10 min)
+
+- **Descripción**:  
+  Aprende la encapsulación usando getters y setters. Permite proteger los datos internos del objeto, validar valores antes de asignarlos y acceder a los atributos de forma controlada.
+
+- **Conclusiones clave**:  
+  - La encapsulación mejora la seguridad y robustez del código.  
+  - Validar datos con setters evita errores de lógica.  
+  - Instanciar objetos permite manipular datos de manera segura.  
+  - Revisar que los getters y setters se usen correctamente.
+
+- **Enlace**: [Ver la lección](https://youtu.be/WeWMcOv9Lzs?si=z9fq0IZt0IrN8X0Q)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3y)
+
+---
+
+## Lección 9: Estructuras de datos simples: Arrays y cadenas integradas con objetos (7 min)
+
+- **Descripción**:  
+  Combina objetos con estructuras de datos simples como arrays y manipulación de cadenas. Aprende a crear colecciones de objetos, recorrerlas, manipular cadenas para búsquedas y evaluar condiciones.
+
+- **Conclusiones clave**:  
+  - Integrar arrays con objetos facilita manejar colecciones de datos.  
+  - Los métodos permiten operar sobre cada objeto individualmente.  
+  - Manipular cadenas con funciones de comparación mejora las búsquedas.  
+  - Revisar índices de arrays y manejo de mayúsculas/minúsculas evita errores comunes.
+
+- **Enlace**: [Ver la lección](https://youtu.be/Uwsw02IaTxs?si=B_p1QHanbQFHZmpn)  
+- **Prácticas**: [Probar ejercicios](https://www.jdoodle.com/ia/1N3z)
 
 ### Lección 10: Desarrollo de un programa básico (10 min)
 
